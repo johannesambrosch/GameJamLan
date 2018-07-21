@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterTheRoom", "EnterTheRoom.csproj", "{EAD2A012-4258-3C6B-17BE-E30B20A2D6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterTheRoom.Editor", "EnterTheRoom.Editor.csproj", "{746F78BA-5D46-8E67-94AF-7CF562F076BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD2A012-4258-3C6B-17BE-E30B20A2D6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD2A012-4258-3C6B-17BE-E30B20A2D6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD2A012-4258-3C6B-17BE-E30B20A2D6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD2A012-4258-3C6B-17BE-E30B20A2D6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746F78BA-5D46-8E67-94AF-7CF562F076BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746F78BA-5D46-8E67-94AF-7CF562F076BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746F78BA-5D46-8E67-94AF-7CF562F076BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746F78BA-5D46-8E67-94AF-7CF562F076BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
